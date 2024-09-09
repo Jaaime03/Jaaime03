@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaaime03
-- 👀 I’m interested in POO and AI
+- 👀 I’m interested in Robotics and AI
 - 🌱 I’m looking to collaborate on projects
-- 📫 How to reach me: capdepon28@gmail.com
+- 📫 How to reach me: capdepon01@gmail.com
 
 <!---
 Esto no se lee
